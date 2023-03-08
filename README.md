@@ -25,10 +25,10 @@ To use the code, clone this repository and install the required packages. Then, 
 
 The output of the analysis is saved to an Excel file in the specified `output_file_path` location. The output file will have two columns: Radius and Mean. The `process_directory()` function processes all TIFF files in the specified directory and saves the results to the output Excel file.
 
-Contributing
+## Contributing
 
 If you would like to contribute to this code, feel free to submit a pull request with your changes. Please make sure to follow the existing coding style and include tests for any new functionality.
 
-License
+## License
 
 Feel free to use it for your own research or projects.
